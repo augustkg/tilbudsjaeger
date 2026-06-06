@@ -1,0 +1,6 @@
+{
+  "name": "tilbudsjaeger",
+  "description": "Find den billigste pris på et produkt i det danske marked — tjekker DK/EU forhandlere, nyhedsbrevs-rabatter og brugerens egne medlemskaber (PlusKort, Forbrugsforeningen, Coop Plus, FDM).",
+  "version": "0.1.0",
+  "license": "MIT"
+}

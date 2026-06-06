@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tilbudsjaeger",
+  "description": "Single-purpose Claude Code marketplace for the tilbudsjaeger plugin — find the cheapest price for a product in the Danish market.",
+  "metadata": {
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "tilbudsjaeger",
+      "source": ".",
+      "description": "Find den billigste pris på et produkt i Danmark — tjekker DK/EU forhandlere, nyhedsbrevs-rabatter og brugerens egne medlemskaber (PlusKort, Forbrugsforeningen, Coop Plus, FDM, premium kreditkort).",
+      "version": "0.1.0",
+      "category": "shopping",
+      "tags": ["danmark", "priser", "rabatter", "shopping"]
+    }
+  ]
+}
