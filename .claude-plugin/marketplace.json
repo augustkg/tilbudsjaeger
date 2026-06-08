@@ -1,6 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "tilbudsjaeger",
+  "owner": {
+    "name": "augustkg"
+  },
   "description": "Single-purpose Claude Code marketplace for the tilbudsjaeger plugin — find the cheapest price for a product in the Danish market.",
   "metadata": {
     "pluginRoot": "."
