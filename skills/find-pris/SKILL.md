@@ -1,4 +1,5 @@
 ---
+name: find-pris
 description: Find den billigste pris på et produkt i Danmark. Tjekker danske og tyske/svenske forhandlere, nyhedsbrevs-rabatter, kendte begrænsninger på rabatkoder (designermærker, kampagnevarer), og brugerens egne medlemskaber (PlusKort, Forbrugsforeningen, Coop Plus, FDM, premium kreditkort). Brug når brugeren vil sammenligne priser, finde et tilbud, eller forhandle en handel hjem i det danske marked. Brug IKKE til dagligvarer, ejendom eller finansielle produkter.
 allowed-tools: WebFetch WebSearch AskUserQuestion mcp__chrome-devtools__*
 ---
